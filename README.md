@@ -1,10 +1,5 @@
 <div align="center">
 <br>
-    <a href="https://bank.pietrzakadrian.com"> 
-        <img src="https://images.pietrzakadrian.com/logo.png" alt="Bank Application"/>
-    </a>
-
-[**Live Preview**](https://bank.pietrzakadrian.com) | [**Swagger Documentation**](https://api.pietrzakadrian.com/documentation) | [**Contact the developer**](mailto:contact@pietrzakadrian.com)
 
  <hr>
 <h4>
@@ -21,10 +16,6 @@ Full Stack Web Application similar to financial software that is used in profess
 - Implementation of **Google Analytics** along with the Cookie Consent according to the **GDPR**
 
 <hr>
-
-<div align="center">
-    <img src="https://images.pietrzakadrian.com/app_dashboard.png"  />
-</div>
 
 <hr>
 
